@@ -66,10 +66,6 @@ Power BI Dashboard
 
 ## 📸 Dashboard Preview
 
-> Add your dashboard screenshot here.
-
-Example:
-
 ![Dashboard](<img width="604" height="354" alt="Screenshot 2026-06-28 201211" src="https://github.com/user-attachments/assets/12311d8c-5895-403d-a9f4-2d474d79a211" />
 )
 
