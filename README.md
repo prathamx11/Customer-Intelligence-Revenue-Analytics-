@@ -66,8 +66,8 @@ Power BI Dashboard
 
 ## 📸 Dashboard Preview
 
-![Dashboard]([<img width="604" height="354" alt="Screenshot 2026-06-28 201211" src="https://github.com/user-attachments/assets/12311d8c-5895-403d-a9f4-2d474d79a211" />](<img width="1299" height="711" alt="Screenshot 2026-06-29 001740" src="https://github.com/user-attachments/assets/a12aff6c-3d63-4232-934b-5028de45d7c4" />
-)
+![Dashboard](<img width="1299" height="711" alt="Screenshot 2026-06-29 001740" src="https://github.com/user-attachments/assets/dfb3d445-94d7-4c51-bc75-b2ce5dd53607" />
+
 )
 
 ---
