@@ -60,6 +60,9 @@ Power BI Dashboard
 
 ## 📸 Dashboard Preview
 
+<img width="800" height="300" src="<img width="604" height="354" alt="Screenshot 2026-06-28 201211" src="https://github.com/user-attachments/assets/13ac525c-ae33-4974-99ce-5d77a3f2ba94" />
+" />
+
 ## 🔍 Key Insights
 
 - Clothing category generated the highest revenue.
