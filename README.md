@@ -66,7 +66,7 @@ Power BI Dashboard
 
 ## 📸 Dashboard Preview
 
-![Dashboard](<img width="1299" height="711" alt="Screenshot 2026-06-29 001740" src="https://github.com/user-attachments/assets/dfb3d445-94d7-4c51-bc75-b2ce5dd53607" />
+(https://github.com/prathamx11/Customer-Intelligence-Revenue-Analytics-/blob/main/Screenshot%202026-06-29%20001740.png
 
 )
 
